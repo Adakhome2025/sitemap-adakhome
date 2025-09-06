@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+
+  <!-- Page d'accueil -->
+  <url>
+    <loc>https://www.adakhome.be/</loc>
+    <lastmod>2025-09-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- Page Nos Services -->
+  <url>
+    <loc>https://www.adakhome.be/nos-services</loc>
+    <lastmod>2025-09-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+
+    <!-- Vidéo 1 -->
+    <video:video>
+      <video:thumbnail_loc>https://www.adakhome.be/videos/miniature-video1.jpg</video:thumbnail_loc>
+      <video:title>Vidéo Service 1</video:title>
+      <video:description>Description courte de la vidéo 1</video:description>
+      <video:content_loc>https://www.adakhome.be/videos/video1.mp4</video:content_loc>
+    </video:video>
+
+    <!-- Vidéo 2 -->
+    <video:video>
+      <video:thumbnail_loc>https://www.adakhome.be/videos/miniature-video2.jpg</video:thumbnail_loc>
+      <video:title>Vidéo Service 2</video:title>
+      <video:description>Description courte de la vidéo 2</video:description>
+      <video:content_loc>https://www.adakhome.be/videos/video2.mp4</video:content_loc>
+    </video:video>
+
+    <!-- Vidéo 3 -->
+    <video:video>
+      <video:thumbnail_loc>https://www.adakhome.be/videos/miniature-video3.jpg</video:thumbnail_loc>
+      <video:title>Vidéo Service 3</video:title>
+      <video:description>Description courte de la vidéo 3</video:description>
+      <video:content_loc>https://www.adakhome.be/videos/video3.mp4</video:content_loc>
+    </video:video>
+
+  </url>
+
+  <!-- Services individuels -->
+  <url>
+    <loc>https://www.adakhome.be/architecture-dinterieur-liege</loc>
+    <lastmod>2025-09-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.adakhome.be/peinture-et-revetements-muraux-liege</loc>
+    <lastmod>2025-09-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.adakhome.be/chassis-liege</loc>
+    <lastmod>2025-09-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.adakhome.be/salle-de-bain-liege</loc>
+    <lastmod>2025-09-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.adakhome.be/electricite-liege</loc>
+    <lastmod>2025-09-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.adakhome.be/plomberie-liege</loc>
+    <lastmod>2025-09-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.adakhome.be/revetements-de-sol-liege</loc>
+    <lastmod>2025-09-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.adakhome.be/panneaux-photovoltaiques-liege</loc>
+    <lastmod>2025-09-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.adakhome.be/mur-et-plafond-liege</loc>
+    <lastmod>2025-09-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Nos réalisations -->
+  <url>
+    <loc>https://www.adakhome.be/nos-realisations</loc>
+    <lastmod>2025-09-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.adakhome.be/projets-cuisine</loc>
+    <lastmod>2025-09-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.adakhome.be/projets-salle-de-bain</loc>
+    <lastmod>2025-09-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.adakhome.be/projets-commerce</loc>
+    <lastmod>2025-09-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.adakhome.be/projets-salon</loc>
+    <lastmod>2025-09-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Pages supplémentaires -->
+  <url>
+    <loc>https://www.adakhome.be/a-propos</loc>
+    <lastmod>2025-09-05</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.adakhome.be/contact</loc>
+    <lastmod>2025-09-05</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+</urlset>
