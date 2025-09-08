@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+
+  <!-- Page d'accueil avec vidéo YouTube -->
+  <url>
+    <loc>https://www.adakhome.be/</loc>
+    <video:video>
+      <video:thumbnail_loc>https://img.youtube.com/vi/ve9PbIW-4Cs/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>Vidéo accueil YouTube</video:title>
+      <video:description>Vidéo intégrée depuis YouTube pour la page d'accueil</video:description>
+      <video:content_loc>https://www.youtube.com/embed/ve9PbIW-4Cs</video:content_loc>
+      <video:publication_date>2025-08-30</video:publication_date>
+    </video:video>
+  </url>
+
+  <!-- Page Nos Services -->
+  <url>
+    <loc>https://www.adakhome.be/nos-services</loc>
+    <video:video>
+      <video:thumbnail_loc>https://www.adakhome.be/videos/miniature-video1.jpg</video:thumbnail_loc>
+      <video:title>Vidéo Service 1</video:title>
+      <video:description>Description courte de la vidéo 1</video:description>
+      <video:content_loc>https://www.adakhome.be/videos/video1.mp4</video:content_loc>
+      <video:publication_date>2025-09-01</video:publication_date>
+    </video:video>
+    <video:video>
+      <video:thumbnail_loc>https://www.adakhome.be/videos/miniature-video2.jpg</video:thumbnail_loc>
+      <video:title>Vidéo Service 2</video:title>
+      <video:description>Description courte de la vidéo 2</video:description>
+      <video:content_loc>https://www.adakhome.be/videos/video2.mp4</video:content_loc>
+      <video:publication_date>2025-09-01</video:publication_date>
+    </video:video>
+    <video:video>
+      <video:thumbnail_loc>https://www.adakhome.be/videos/miniature-video3.jpg</video:thumbnail_loc>
+      <video:title>Vidéo Service 3</video:title>
+      <video:description>Description courte de la vidéo 3</video:description>
+      <video:content_loc>https://www.adakhome.be/videos/video3.mp4</video:content_loc>
+      <video:publication_date>2025-09-01</video:publication_date>
+    </video:video>
+  </url>
+
+  <!-- Page Amenagement Cuisine -->
+  <url>
+    <loc>https://www.adakhome.be/amenagement-cuisine-liege</loc>
+    <video:video>
+      <video:thumbnail_loc>https://www.adakhome.be/videos/miniature-cuisine.jpg</video:thumbnail_loc>
+      <video:title>Aménagement Cuisine</video:title>
+      <video:description>Vidéo de l'aménagement de cuisine</video:description>
+      <video:content_loc>https://videos.pexels.com/video-files/6568699/6568699-uhd_2732_1440_25fps.mp4</video:content_loc>
+      <video:publication_date>2025-09-02</video:publication_date>
+    </video:video>
+  </url>
+
+  <!-- Page Contact -->
+  <url>
+    <loc>https://www.adakhome.be/contact</loc>
+    <video:video>
+      <video:thumbnail_loc>https://www.adakhome.be/videos/miniature-contact.jpg</video:thumbnail_loc>
+      <video:title>Contact Vidéo</video:title>
+      <video:description>Vidéo sur la page contact</video:description>
+      <video:content_loc>https://videos.pexels.com/video-files/6568699/6568699-uhd_2732_1440_25fps.mp4</video:content_loc>
+      <video:publication_date>2025-08-30</video:publication_date>
+    </video:video>
+  </url>
+
+  <!-- Exemple pour les autres vidéos -->
+  <url>
+    <loc>https://www.adakhome.be/revetements-de-sol-parquet-carrelage-liege</loc>
+    <video:video>
+      <video:thumbnail_loc>https://www.adakhome.be/videos/miniature-sol.jpg</video:thumbnail_loc>
+      <video:title>Vidéo revêtements de sol</video:title>
+      <video:description>Vidéo sur les revêtements de sol</video:description>
+      <video:content_loc>https://videos.pexels.com/video-files/4474974/4474974-uhd_2560_1440_25fps.mp4</video:content_loc>
+      <video:publication_date>2025-08-21</video:publication_date>
+    </video:video>
+  </url>
+
+  <!-- Continue le même format pour toutes les autres vidéos listées -->
+
+</urlset>
